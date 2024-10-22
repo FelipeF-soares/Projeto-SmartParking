@@ -1,0 +1,15 @@
+H:\2.Projetos\SmartParkWeb\SmartParkWeb.DataAccess\bin\Debug\net8.0\SmartParkWeb.DataAccess.deps.json
+H:\2.Projetos\SmartParkWeb\SmartParkWeb.DataAccess\bin\Debug\net8.0\SmartParkWeb.DataAccess.dll
+H:\2.Projetos\SmartParkWeb\SmartParkWeb.DataAccess\bin\Debug\net8.0\SmartParkWeb.DataAccess.pdb
+H:\2.Projetos\SmartParkWeb\SmartParkWeb.DataAccess\bin\Debug\net8.0\SmartParkWeb.Domain.dll
+H:\2.Projetos\SmartParkWeb\SmartParkWeb.DataAccess\bin\Debug\net8.0\SmartParkWeb.Domain.pdb
+H:\2.Projetos\SmartParkWeb\SmartParkWeb.DataAccess\obj\Debug\net8.0\SmartParkWeb.DataAccess.csproj.AssemblyReference.cache
+H:\2.Projetos\SmartParkWeb\SmartParkWeb.DataAccess\obj\Debug\net8.0\SmartParkWeb.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+H:\2.Projetos\SmartParkWeb\SmartParkWeb.DataAccess\obj\Debug\net8.0\SmartParkWeb.DataAccess.AssemblyInfoInputs.cache
+H:\2.Projetos\SmartParkWeb\SmartParkWeb.DataAccess\obj\Debug\net8.0\SmartParkWeb.DataAccess.AssemblyInfo.cs
+H:\2.Projetos\SmartParkWeb\SmartParkWeb.DataAccess\obj\Debug\net8.0\SmartParkWeb.DataAccess.csproj.CoreCompileInputs.cache
+H:\2.Projetos\SmartParkWeb\SmartParkWeb.DataAccess\obj\Debug\net8.0\SmartPar.90B34055.Up2Date
+H:\2.Projetos\SmartParkWeb\SmartParkWeb.DataAccess\obj\Debug\net8.0\SmartParkWeb.DataAccess.dll
+H:\2.Projetos\SmartParkWeb\SmartParkWeb.DataAccess\obj\Debug\net8.0\refint\SmartParkWeb.DataAccess.dll
+H:\2.Projetos\SmartParkWeb\SmartParkWeb.DataAccess\obj\Debug\net8.0\SmartParkWeb.DataAccess.pdb
+H:\2.Projetos\SmartParkWeb\SmartParkWeb.DataAccess\obj\Debug\net8.0\ref\SmartParkWeb.DataAccess.dll

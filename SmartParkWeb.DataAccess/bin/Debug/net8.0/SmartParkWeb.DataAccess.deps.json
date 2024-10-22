@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SmartParkWeb.DataAccess/1.0.0": {
+        "dependencies": {
+          "SmartParkWeb.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SmartParkWeb.DataAccess.dll": {}
+        }
+      },
+      "SmartParkWeb.Domain/1.0.0": {
+        "runtime": {
+          "SmartParkWeb.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SmartParkWeb.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SmartParkWeb.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
