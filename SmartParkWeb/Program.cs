@@ -1,7 +1,16 @@
+using Microsoft.EntityFrameworkCore;
+using SmartParkWeb.DataAccess.SmartParkingContext;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+var stringConnection = builder.Configuration.GetConnectionString("Default");
+
+builder.Services.AddDbContext<SmartParkContext>
+    (
+        options => options.UseMySql(stringConnection, ServerVersion.AutoDetect(stringConnection))
+    );
 
 var app = builder.Build();
 
