@@ -1,12 +1,106 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "H:\\2.Projetos\\SmartParkWeb\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88BDEC4B-0CBC-4614-92B5-248ADA86F21B}|SmartParkWeb.Domain\\SmartParkWeb.Domain.csproj|h:\\2.projetos\\smartparkweb\\smartparkweb.domain\\events\\eventvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BDEC4B-0CBC-4614-92B5-248ADA86F21B}|SmartParkWeb.Domain\\SmartParkWeb.Domain.csproj|solutionrelative:smartparkweb.domain\\events\\eventvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BDEC4B-0CBC-4614-92B5-248ADA86F21B}|SmartParkWeb.Domain\\SmartParkWeb.Domain.csproj|h:\\2.projetos\\smartparkweb\\smartparkweb.domain\\people\\military.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BDEC4B-0CBC-4614-92B5-248ADA86F21B}|SmartParkWeb.Domain\\SmartParkWeb.Domain.csproj|solutionrelative:smartparkweb.domain\\people\\military.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BDEC4B-0CBC-4614-92B5-248ADA86F21B}|SmartParkWeb.Domain\\SmartParkWeb.Domain.csproj|h:\\2.projetos\\smartparkweb\\smartparkweb.domain\\thing\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BDEC4B-0CBC-4614-92B5-248ADA86F21B}|SmartParkWeb.Domain\\SmartParkWeb.Domain.csproj|solutionrelative:smartparkweb.domain\\thing\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BDEC4B-0CBC-4614-92B5-248ADA86F21B}|SmartParkWeb.Domain\\SmartParkWeb.Domain.csproj|h:\\2.projetos\\smartparkweb\\smartparkweb.domain\\people\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BDEC4B-0CBC-4614-92B5-248ADA86F21B}|SmartParkWeb.Domain\\SmartParkWeb.Domain.csproj|solutionrelative:smartparkweb.domain\\people\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BDEC4B-0CBC-4614-92B5-248ADA86F21B}|SmartParkWeb.Domain\\SmartParkWeb.Domain.csproj|h:\\2.projetos\\smartparkweb\\smartparkweb.domain\\thing\\iddriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BDEC4B-0CBC-4614-92B5-248ADA86F21B}|SmartParkWeb.Domain\\SmartParkWeb.Domain.csproj|solutionrelative:smartparkweb.domain\\thing\\iddriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDdriver.cs",
+              "DocumentMoniker": "H:\\2.Projetos\\SmartParkWeb\\SmartParkWeb.Domain\\Thing\\IDdriver.cs",
+              "RelativeDocumentMoniker": "SmartParkWeb.Domain\\Thing\\IDdriver.cs",
+              "ToolTip": "H:\\2.Projetos\\SmartParkWeb\\SmartParkWeb.Domain\\Thing\\IDdriver.cs",
+              "RelativeToolTip": "SmartParkWeb.Domain\\Thing\\IDdriver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:30:13.907Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventVehicle.cs",
+              "DocumentMoniker": "H:\\2.Projetos\\SmartParkWeb\\SmartParkWeb.Domain\\Events\\EventVehicle.cs",
+              "RelativeDocumentMoniker": "SmartParkWeb.Domain\\Events\\EventVehicle.cs",
+              "ToolTip": "H:\\2.Projetos\\SmartParkWeb\\SmartParkWeb.Domain\\Events\\EventVehicle.cs",
+              "RelativeToolTip": "SmartParkWeb.Domain\\Events\\EventVehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:43:44.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "H:\\2.Projetos\\SmartParkWeb\\SmartParkWeb.Domain\\Thing\\Vehicle.cs",
+              "RelativeDocumentMoniker": "SmartParkWeb.Domain\\Thing\\Vehicle.cs",
+              "ToolTip": "H:\\2.Projetos\\SmartParkWeb\\SmartParkWeb.Domain\\Thing\\Vehicle.cs",
+              "RelativeToolTip": "SmartParkWeb.Domain\\Thing\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:37:49.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Military.cs",
+              "DocumentMoniker": "H:\\2.Projetos\\SmartParkWeb\\SmartParkWeb.Domain\\People\\Military.cs",
+              "RelativeDocumentMoniker": "SmartParkWeb.Domain\\People\\Military.cs",
+              "ToolTip": "H:\\2.Projetos\\SmartParkWeb\\SmartParkWeb.Domain\\People\\Military.cs",
+              "RelativeToolTip": "SmartParkWeb.Domain\\People\\Military.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:28:24.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "H:\\2.Projetos\\SmartParkWeb\\SmartParkWeb.Domain\\People\\Person.cs",
+              "RelativeDocumentMoniker": "SmartParkWeb.Domain\\People\\Person.cs",
+              "ToolTip": "H:\\2.Projetos\\SmartParkWeb\\SmartParkWeb.Domain\\People\\Person.cs",
+              "RelativeToolTip": "SmartParkWeb.Domain\\People\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:26:44.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
