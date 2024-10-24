@@ -1,0 +1,44 @@
+﻿@model List<Military>
+
+<div class="container">
+    <div class="card">
+        <div class="card-header">
+            <div class="row">
+                <div class="col-10 text-center">
+                    <h4 class="card-title">Lista de Militares</h4>
+                </div>
+                <div class="col-2 text-end">
+                    <a asp-area="Admin" asp-controller="Military" asp-action="Add" class="btn btn-secondary btn-sm">Adicionar Militar</a>
+                </div>
+            </div>
+        </div>
+        <div class="card-body">
+            @if (Model.Any())
+            {
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">RE</th>
+                            <th scope="col">Nome</th>
+                            <th scope="col">Editar</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach(var military in Model)
+                        {
+                            <tr>
+                                <th scope="row">@military.Re</th>
+                                <td>@military.Name</td>
+                                <td></td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+            else
+            {
+                <h4 class="card-title">Lista de Militares está vazia</h4>
+            }
+        </div>
+    </div>
+</div>

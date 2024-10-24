@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SmartParkWeb.DataAccess.Persistence.Interfaces;
 
-public interface IIDdriverPersist
+public interface IIDdriverPersist : IGenericPersist
 {
     IDdriver GetIDdriverForId(int id);
 

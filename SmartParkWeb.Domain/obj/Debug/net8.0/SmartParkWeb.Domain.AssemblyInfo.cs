@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartParkWeb.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6ce4d6758e0086a0a2bb7035043aa043fdde980")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d900fa207e566d49b4573c0f0ee4afae1365c37")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartParkWeb.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartParkWeb.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

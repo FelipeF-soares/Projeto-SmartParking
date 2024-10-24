@@ -1,0 +1,47 @@
+﻿@model List<Vehicle>
+
+<div class="container">
+    <div class="card">
+        <div class="card-header">
+            <div class="row">
+                <div class="col-10 text-center">
+                    <h4 class="card-title">Lista de Veículos Cadastrados</h4>
+                </div>
+            </div>
+        </div>
+        <div class="card-body">
+            @if (Model.Any())
+            {
+                <table class="table text-center">
+                    <thead>
+                        <tr>
+                            <th scope="col">Placa</th>
+                            <th scope="col">Marca</th>
+                            <th scope="col">Modelo</th>
+                            <th scope="col">Numero Do Cartão</th>
+                            <th scope="col">Nome Completo</th>
+                            <th scope="col">RE</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var vehicle in Model)
+                        {
+                            <tr>
+                                <th scope="row">@vehicle.LicensePlate</th>
+                                <td>@vehicle.Make</td>
+                                <td>@vehicle.Model</td>
+                                <td>@vehicle.CardNumber</td>
+                                <td>@vehicle.Military.Name</td>
+                                <td>@vehicle.Military.Re</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+            else
+            {
+                <h4 class="card-title">Lista de Veículos está vazia</h4>
+            }
+        </div>
+    </div>
+</div>

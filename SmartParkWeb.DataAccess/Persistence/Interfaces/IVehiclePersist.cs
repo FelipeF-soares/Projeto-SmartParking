@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SmartParkWeb.DataAccess.Persistence.Interfaces;
 
-public interface IVehiclePersist
+public interface IVehiclePersist:IGenericPersist
 {
     Vehicle GetVehicleById(int vehicleId);
     Vehicle GetVehicleByLicensePlate(string licensePlate);

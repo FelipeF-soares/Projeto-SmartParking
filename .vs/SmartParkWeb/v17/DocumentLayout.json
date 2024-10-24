@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "H:\\2.Projetos\\SmartParkWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2625BA3-4690-4C12-A0AF-30A7CDB19BD4}|SmartParkWeb.DataAccess\\SmartParkWeb.DataAccess.csproj|h:\\2.projetos\\smartparkweb\\smartparkweb.dataaccess\\persistence\\ddriverpersist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2625BA3-4690-4C12-A0AF-30A7CDB19BD4}|SmartParkWeb.DataAccess\\SmartParkWeb.DataAccess.csproj|solutionrelative:smartparkweb.dataaccess\\persistence\\ddriverpersist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D56C4951-AC8A-4B42-937C-FE9ED97EE935}|SmartParkWeb\\SmartParkWeb.csproj|h:\\2.projetos\\smartparkweb\\smartparkweb\\areas\\admin\\views\\vehicle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56C4951-AC8A-4B42-937C-FE9ED97EE935}|SmartParkWeb\\SmartParkWeb.csproj|solutionrelative:smartparkweb\\areas\\admin\\views\\vehicle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88BDEC4B-0CBC-4614-92B5-248ADA86F21B}|SmartParkWeb.Domain\\SmartParkWeb.Domain.csproj|H:\\2.Projetos\\SmartParkWeb\\smartparkweb.domain\\thing\\iddriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88BDEC4B-0CBC-4614-92B5-248ADA86F21B}|SmartParkWeb.Domain\\SmartParkWeb.Domain.csproj|solutionrelative:smartparkweb.domain\\thing\\iddriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D56C4951-AC8A-4B42-937C-FE9ED97EE935}|SmartParkWeb\\SmartParkWeb.csproj|h:\\2.projetos\\smartparkweb\\smartparkweb\\areas\\user\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56C4951-AC8A-4B42-937C-FE9ED97EE935}|SmartParkWeb\\SmartParkWeb.csproj|solutionrelative:smartparkweb\\areas\\user\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2625BA3-4690-4C12-A0AF-30A7CDB19BD4}|SmartParkWeb.DataAccess\\SmartParkWeb.DataAccess.csproj|h:\\2.projetos\\smartparkweb\\smartparkweb.dataaccess\\persistence\\interfaces\\iiddriverpersist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2625BA3-4690-4C12-A0AF-30A7CDB19BD4}|SmartParkWeb.DataAccess\\SmartParkWeb.DataAccess.csproj|solutionrelative:smartparkweb.dataaccess\\persistence\\interfaces\\iiddriverpersist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D56C4951-AC8A-4B42-937C-FE9ED97EE935}|SmartParkWeb\\SmartParkWeb.csproj|h:\\2.projetos\\smartparkweb\\smartparkweb\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56C4951-AC8A-4B42-937C-FE9ED97EE935}|SmartParkWeb\\SmartParkWeb.csproj|solutionrelative:smartparkweb\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2625BA3-4690-4C12-A0AF-30A7CDB19BD4}|SmartParkWeb.DataAccess\\SmartParkWeb.DataAccess.csproj|h:\\2.projetos\\smartparkweb\\smartparkweb.dataaccess\\persistence\\vehiclepersist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2625BA3-4690-4C12-A0AF-30A7CDB19BD4}|SmartParkWeb.DataAccess\\SmartParkWeb.DataAccess.csproj|solutionrelative:smartparkweb.dataaccess\\persistence\\vehiclepersist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D56C4951-AC8A-4B42-937C-FE9ED97EE935}|SmartParkWeb\\SmartParkWeb.csproj|h:\\2.projetos\\smartparkweb\\smartparkweb\\areas\\admin\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56C4951-AC8A-4B42-937C-FE9ED97EE935}|SmartParkWeb\\SmartParkWeb.csproj|solutionrelative:smartparkweb\\areas\\admin\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IDdriver.cs",
-              "DocumentMoniker": "H:\\2.Projetos\\SmartParkWeb\\SmartParkWeb.Domain\\Thing\\IDdriver.cs",
-              "RelativeDocumentMoniker": "SmartParkWeb.Domain\\Thing\\IDdriver.cs",
-              "ToolTip": "H:\\2.Projetos\\SmartParkWeb\\SmartParkWeb.Domain\\Thing\\IDdriver.cs",
-              "RelativeToolTip": "SmartParkWeb.Domain\\Thing\\IDdriver.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T19:30:13.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IIDdriverPersist.cs",
-              "DocumentMoniker": "H:\\2.Projetos\\SmartParkWeb\\SmartParkWeb.DataAccess\\Persistence\\Interfaces\\IIDdriverPersist.cs",
-              "RelativeDocumentMoniker": "SmartParkWeb.DataAccess\\Persistence\\Interfaces\\IIDdriverPersist.cs",
-              "ToolTip": "H:\\2.Projetos\\SmartParkWeb\\SmartParkWeb.DataAccess\\Persistence\\Interfaces\\IIDdriverPersist.cs",
-              "RelativeToolTip": "SmartParkWeb.DataAccess\\Persistence\\Interfaces\\IIDdriverPersist.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T21:03:02.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DdriverPersist.cs",
-              "DocumentMoniker": "H:\\2.Projetos\\SmartParkWeb\\SmartParkWeb.DataAccess\\Persistence\\DdriverPersist.cs",
-              "RelativeDocumentMoniker": "SmartParkWeb.DataAccess\\Persistence\\DdriverPersist.cs",
-              "ToolTip": "H:\\2.Projetos\\SmartParkWeb\\SmartParkWeb.DataAccess\\Persistence\\DdriverPersist.cs",
-              "RelativeToolTip": "SmartParkWeb.DataAccess\\Persistence\\DdriverPersist.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T20:56:16.001Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "H:\\2.Projetos\\SmartParkWeb\\SmartParkWeb\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SmartParkWeb\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "H:\\2.Projetos\\SmartParkWeb\\SmartParkWeb\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SmartParkWeb\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T22:22:36.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "VehiclePersist.cs",
-              "DocumentMoniker": "H:\\2.Projetos\\SmartParkWeb\\SmartParkWeb.DataAccess\\Persistence\\VehiclePersist.cs",
-              "RelativeDocumentMoniker": "SmartParkWeb.DataAccess\\Persistence\\VehiclePersist.cs",
-              "ToolTip": "H:\\2.Projetos\\SmartParkWeb\\SmartParkWeb.DataAccess\\Persistence\\VehiclePersist.cs",
-              "RelativeToolTip": "SmartParkWeb.DataAccess\\Persistence\\VehiclePersist.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC0AAAABAAAA",
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "H:\\2.Projetos\\SmartParkWeb\\SmartParkWeb\\Areas\\Admin\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "SmartParkWeb\\Areas\\Admin\\Controllers\\VehicleController.cs",
+              "ToolTip": "H:\\2.Projetos\\SmartParkWeb\\SmartParkWeb\\Areas\\Admin\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "SmartParkWeb\\Areas\\Admin\\Controllers\\VehicleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T20:51:00.818Z",
+              "WhenOpened": "2024-10-24T22:21:45.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\2.Projetos\\SmartParkWeb\\SmartParkWeb\\Areas\\Admin\\Views\\Vehicle\\Index.cshtml",
+              "RelativeDocumentMoniker": "SmartParkWeb\\Areas\\Admin\\Views\\Vehicle\\Index.cshtml",
+              "ToolTip": "H:\\2.Projetos\\SmartParkWeb\\SmartParkWeb\\Areas\\Admin\\Views\\Vehicle\\Index.cshtml",
+              "RelativeToolTip": "SmartParkWeb\\Areas\\Admin\\Views\\Vehicle\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T22:16:26.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "H:\\2.Projetos\\SmartParkWeb\\SmartParkWeb\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SmartParkWeb\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "H:\\2.Projetos\\SmartParkWeb\\SmartParkWeb\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SmartParkWeb\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T22:15:45.686Z",
               "EditorCaption": ""
             }
           ]

@@ -9,3 +9,4 @@ H:\2.Projetos\SmartParkWeb\SmartParkWeb.Domain\obj\Debug\net8.0\SmartParkWeb.Dom
 H:\2.Projetos\SmartParkWeb\SmartParkWeb.Domain\obj\Debug\net8.0\refint\SmartParkWeb.Domain.dll
 H:\2.Projetos\SmartParkWeb\SmartParkWeb.Domain\obj\Debug\net8.0\SmartParkWeb.Domain.pdb
 H:\2.Projetos\SmartParkWeb\SmartParkWeb.Domain\obj\Debug\net8.0\ref\SmartParkWeb.Domain.dll
+H:\2.Projetos\SmartParkWeb\SmartParkWeb.Domain\obj\Debug\net8.0\SmartParkWeb.Domain.sourcelink.json

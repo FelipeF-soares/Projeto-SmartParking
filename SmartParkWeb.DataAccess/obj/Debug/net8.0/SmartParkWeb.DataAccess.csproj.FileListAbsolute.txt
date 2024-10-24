@@ -13,3 +13,6 @@ H:\2.Projetos\SmartParkWeb\SmartParkWeb.DataAccess\obj\Debug\net8.0\SmartParkWeb
 H:\2.Projetos\SmartParkWeb\SmartParkWeb.DataAccess\obj\Debug\net8.0\refint\SmartParkWeb.DataAccess.dll
 H:\2.Projetos\SmartParkWeb\SmartParkWeb.DataAccess\obj\Debug\net8.0\SmartParkWeb.DataAccess.pdb
 H:\2.Projetos\SmartParkWeb\SmartParkWeb.DataAccess\obj\Debug\net8.0\ref\SmartParkWeb.DataAccess.dll
+H:\2.Projetos\SmartParkWeb\SmartParkWeb.DataAccess\bin\Debug\net8.0\SmartParkWeb.DataAccess.runtimeconfig.json
+H:\2.Projetos\SmartParkWeb\SmartParkWeb.DataAccess\obj\Debug\net8.0\SmartParkWeb.DataAccess.sourcelink.json
+H:\2.Projetos\SmartParkWeb\SmartParkWeb.DataAccess\obj\Debug\net8.0\SmartParkWeb.DataAccess.genruntimeconfig.cache

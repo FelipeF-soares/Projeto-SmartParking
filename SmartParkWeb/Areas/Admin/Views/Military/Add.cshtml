@@ -1,0 +1,35 @@
+﻿@model Military
+
+<div class="container">
+    <div class="card">
+        <div class="card-header text-center">
+            <h4 class="card-title">Adicionar Militar</h4>
+        </div>
+        <div class="card-body">
+            <form method="post">
+                <div class="mb-3">
+                    <label asp-for="@Model.Name" class="form-label"></label>
+                    <input asp-for="@Model.Name" class="form-control">
+                </div>
+                <div class="mb-3">
+                    <label asp-for="@Model.Re" class="form-label"></label>
+                    <input asp-for="@Model.Re" class="form-control">
+                </div>
+                <div class="mb-3">
+                    <label asp-for="@Model.IdentificationDocument"  class="form-label"></label>
+                    <input asp-for="@Model.IdentificationDocument" class="form-control">
+                </div>
+                <div class="mb-3">
+                    <label asp-for="@Model.CellPhone" class="form-label"></label>
+                    <input asp-for="@Model.CellPhone" class="form-control">
+                </div>
+                <div class="mb-3">
+                    <label asp-for="@Model.Email" class="form-label"></label>
+                    <input asp-for="@Model.Email" class="form-control">
+                </div>
+                <button type="submit" class="btn btn-primary">Prosseguir</button>
+            </form>
+            </div>
+        </div>
+    </div>
+</div>

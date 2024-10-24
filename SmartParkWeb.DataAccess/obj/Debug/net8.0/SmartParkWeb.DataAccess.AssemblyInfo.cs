@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartParkWeb.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee2beee14bd1c20d743deb37a21454eadb75cfda")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d900fa207e566d49b4573c0f0ee4afae1365c37")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartParkWeb.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartParkWeb.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

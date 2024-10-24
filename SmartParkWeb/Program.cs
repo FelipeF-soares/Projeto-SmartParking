@@ -1,4 +1,6 @@
 using Microsoft.EntityFrameworkCore;
+using SmartParkWeb.DataAccess.Persistence;
+using SmartParkWeb.DataAccess.Persistence.Interfaces;
 using SmartParkWeb.DataAccess.SmartParkingContext;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,6 +13,10 @@ builder.Services.AddDbContext<SmartParkContext>
     (
         options => options.UseMySql(stringConnection, ServerVersion.AutoDetect(stringConnection))
     );
+builder.Services.AddScoped<IGenericPersist, GenericPersist>();
+builder.Services.AddScoped<IIDdriverPersist, DdriverPersist>();
+builder.Services.AddScoped<IMilitaryPersist, MilitaryPersist>();
+builder.Services.AddScoped<IVehiclePersist, VehiclePersist>();
 
 var app = builder.Build();
 

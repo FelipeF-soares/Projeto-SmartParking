@@ -1,0 +1,36 @@
+﻿@model Vehicle
+
+<div class="container">
+    <div class="card">
+        <div class="card-header text-center">
+            <h4 class="card-title">Adicionar Veiculo do Militar</h4>
+        </div>
+        <div class="card-body">
+            <form method="post">
+                <input asp-for="@Model.MilitaryId" hidden/>
+                <div class="mb-3">
+                    <label asp-for="@Model.Make" class="form-label"></label>
+                    <input asp-for="@Model.Make" class="form-control">
+                </div>
+                <div class="mb-3">
+                    <label asp-for="@Model.Model" class="form-label"></label>
+                    <input asp-for="@Model.Model" class="form-control">
+                </div>
+                <div class="mb-3">
+                    <label asp-for="@Model.LicensePlate" class="form-label"></label>
+                    <input asp-for="@Model.LicensePlate" class="form-control">
+                </div>
+                <div class="mb-3">
+                    <label asp-for="@Model.Type" class="form-label"></label>
+                    <input asp-for="@Model.Type" class="form-control">
+                </div>
+                <div class="mb-3">
+                    <label asp-for="@Model.CardNumber" class="form-label"></label>
+                    <input asp-for="@Model.CardNumber" class="form-control">
+                </div>
+                <button type="submit" class="btn btn-primary">Prosseguir</button>
+            </form>
+        </div>
+    </div>
+</div>
+</div>

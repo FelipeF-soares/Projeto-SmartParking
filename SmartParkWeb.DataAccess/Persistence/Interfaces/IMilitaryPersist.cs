@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SmartParkWeb.DataAccess.Persistence.Interfaces;
 
-public interface IMilitaryPersist
+public interface IMilitaryPersist : IGenericPersist
 {
     Military GetMilitaryForId(int id);
     Military GetMilitaryForRe(string Re);
